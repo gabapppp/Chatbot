@@ -1,0 +1,257 @@
+[
+    {
+        "instruction": "Uchiha Itachi là ai?",
+        "input": "",
+        "output": "Uchiha Itachi là một thành viên ưu tú của tộc Uchiha, được biết đến với tài năng phi thường và là anh trai của Uchiha Sasuke."
+    },
+    {
+        "instruction": "Itachi gia nhập tổ chức Akatsuki khi nào?",
+        "input": "",
+        "output": "Itachi gia nhập Akatsuki sau khi rời làng Lá, khoảng thời gian sau khi thực hiện nhiệm vụ tiêu diệt tộc Uchiha."
+    },
+    {
+        "instruction": "Itachi sử dụng loại Sharingan nào?",
+        "input": "",
+        "output": "Itachi sở hữu Mangekyo Sharingan, một biến thể mạnh mẽ của Sharingan, cho phép anh ta sử dụng những nhẫn thuật đặc biệt như Tsukuyomi, Amaterasu, và Susanoo."
+    },
+    {
+        "instruction": "Itachi đã giết ai trong tộc Uchiha?",
+        "input": "",
+        "output": "Itachi đã giết tất cả các thành viên trong tộc Uchiha, bao gồm cha mẹ và những người thân khác, trừ Sasuke, người mà anh để sống sót."
+    },
+    {
+        "instruction": "Lý do Itachi tàn sát tộc Uchiha là gì?",
+        "input": "",
+        "output": "Itachi tàn sát tộc Uchiha vì nhận được lệnh từ Hokage Đệ Tam nhằm ngăn chặn một cuộc nổi loạn trong tộc Uchiha, đồng thời bảo vệ sự ổn định của làng Konoha."
+    },
+    {
+        "instruction": "Itachi có mối quan hệ như thế nào với Sasuke?",
+        "input": "",
+        "output": "Itachi là anh trai của Sasuke, và mối quan hệ giữa họ rất phức tạp. Itachi mong muốn Sasuke trở thành người mạnh mẽ để có thể giết anh, nhưng đồng thời cũng yêu thương em trai."
+    },
+    {
+        "instruction": "Nhẫn thuật Tsukuyomi của Itachi là gì?",
+        "input": "",
+        "output": "Tsukuyomi là một nhẫn thuật genjutsu mạnh mẽ mà Itachi sử dụng, có khả năng thao túng tâm trí của đối phương và khiến họ trải qua những ảo giác đau đớn trong thời gian rất ngắn."
+    },
+    {
+        "instruction": "Amaterasu là gì và Itachi đã sử dụng nó như thế nào?",
+        "input": "",
+        "output": "Amaterasu là một nhẫn thuật lửa vĩnh cửu, tạo ra ngọn lửa đen không thể dập tắt. Itachi sử dụng nó để tấn công các kẻ thù mạnh mẽ hoặc khi cần tiêu diệt mục tiêu ngay lập tức."
+    },
+    {
+        "instruction": "Itachi có bao nhiêu lần xuất hiện trong các trận chiến chính?",
+        "input": "",
+        "output": "Itachi xuất hiện trong một số trận chiến chính, bao gồm trận chiến với Sasuke, trận chiến với Nagato và Kabuto, và cuộc đối đầu với các thành viên của Akatsuki."
+    },
+    {
+        "instruction": "Tại sao Itachi không để Sasuke giết mình trong trận chiến cuối cùng?",
+        "input": "",
+        "output": "Itachi muốn Sasuke tự nhận thức được sự thật về anh và tìm thấy con đường riêng của mình. Anh không muốn Sasuke trả thù mà muốn em trai tìm ra lý do thực sự đằng sau hành động của mình."
+    },
+    {
+        "instruction": "Itachi đã gặp ai trong lần đầu tiên gia nhập Akatsuki?",
+        "input": "",
+        "output": "Khi gia nhập Akatsuki, Itachi gặp Kisame Hoshigaki, người trở thành đồng đội của anh trong tổ chức."
+    },
+    {
+        "instruction": "Itachi sử dụng nhẫn thuật nào để chống lại Naruto trong trận chiến cuối cùng?",
+        "input": "",
+        "output": "Trong trận chiến cuối cùng với Naruto, Itachi sử dụng Tsukuyomi và Amaterasu, nhưng Naruto đã được cứu bởi sự giúp đỡ của Sasuke và các đồng đội."
+    },
+    {
+        "instruction": "Itachi làm gì để bảo vệ Sasuke trước Akatsuki?",
+        "input": "",
+        "output": "Itachi đã cố gắng che giấu thông tin về Sasuke và bảo vệ em trai khỏi Akatsuki, mặc dù hắn biết rằng Sasuke sẽ là mục tiêu của tổ chức này."
+    },
+    {
+        "instruction": "Itachi đã làm gì khi biết rằng mình mắc phải một căn bệnh nguy hiểm?",
+        "input": "",
+        "output": "Khi biết mình mắc phải một căn bệnh nguy hiểm, Itachi đã quyết định đối mặt với số phận và tiếp tục bảo vệ Sasuke, đồng thời tìm cách cho Sasuke trở nên mạnh mẽ hơn."
+    },
+    {
+        "instruction": "Itachi có bao nhiêu nhẫn thuật thuộc dòng Mangekyo Sharingan?",
+        "input": "",
+        "output": "Itachi có ba nhẫn thuật mạnh mẽ thuộc dòng Mangekyo Sharingan, đó là Tsukuyomi, Amaterasu, và Susanoo."
+    },
+    {
+        "instruction": "Itachi đã giết ai trong Akatsuki?",
+        "input": "",
+        "output": "Itachi không giết bất kỳ thành viên nào trong Akatsuki, mặc dù anh từng đối đầu và có mâu thuẫn với một số người trong tổ chức."
+    },
+    {
+        "instruction": "Itachi có bao nhiêu lần tái xuất sau khi chết?",
+        "input": "",
+        "output": "Itachi được hồi sinh một lần duy nhất thông qua nhẫn thuật Edo Tensei của Kabuto trong cuộc chiến với Sasuke."
+    },
+    {
+        "instruction": "Itachi làm gì để giải thích hành động của mình cho Sasuke?",
+        "input": "",
+        "output": "Itachi đã giải thích với Sasuke rằng tất cả những gì anh làm là để bảo vệ làng Konoha và muốn Sasuke trưởng thành mạnh mẽ để đánh bại anh."
+    },
+    {
+        "instruction": "Nhẫn thuật Susanoo của Itachi có gì đặc biệt?",
+        "input": "",
+        "output": "Susanoo của Itachi là một thực thể vĩ đại được tạo ra từ chakra của anh, với khả năng tấn công mạnh mẽ và bảo vệ Itachi khỏi những đòn tấn công nguy hiểm."
+    },
+    {
+        "instruction": "Tại sao Itachi lại chọn hành động như vậy, dù có thể làm mọi thứ khác đi?",
+        "input": "",
+        "output": "Itachi hành động như vậy vì anh cho rằng sự hy sinh của mình sẽ bảo vệ những người khác, bao gồm Sasuke, và sẽ giúp duy trì hòa bình cho làng Konoha."
+    },
+    {
+        "instruction": "Itachi có mối quan hệ với ai trong Akatsuki?",
+        "input": "",
+        "output": "Itachi có mối quan hệ đồng đội với Kisame Hoshigaki trong Akatsuki. Họ thường làm việc cùng nhau trong các nhiệm vụ."
+    },
+    {
+        "instruction": "Itachi đã giết bao nhiêu người trong cuộc tàn sát tộc Uchiha?",
+        "input": "",
+        "output": "Itachi giết tất cả các thành viên trong tộc Uchiha, ngoại trừ Sasuke, khiến cho cuộc tàn sát trở thành một sự kiện gây chấn động."
+    },
+    {
+        "instruction": "Itachi có bao nhiêu lần tái sinh trong Naruto?",
+        "input": "",
+        "output": "Itachi chỉ tái sinh một lần duy nhất trong Naruto thông qua nhẫn thuật Edo Tensei của Kabuto."
+    },
+    {
+        "instruction": "Itachi có thể điều khiển Susanoo như thế nào?",
+        "input": "",
+        "output": "Itachi có thể điều khiển Susanoo bằng cách sử dụng Mangekyo Sharingan, tạo ra một hình ảnh vật chất bảo vệ mạnh mẽ và tấn công kẻ thù."
+    },
+    {
+        "instruction": "Itachi sử dụng Tsukuyomi để làm gì?",
+        "input": "",
+        "output": "Tsukuyomi là nhẫn thuật genjutsu mà Itachi sử dụng để làm cho nạn nhân bị rơi vào ảo giác cực kỳ đau đớn và hủy hoại tinh thần của họ."
+    },
+    {
+        "instruction": "Itachi có sử dụng Amaterasu để làm gì trong cuộc chiến với Sasuke?",
+        "input": "",
+        "output": "Itachi sử dụng Amaterasu trong cuộc chiến với Sasuke để tấn công và tạo ra ngọn lửa đen vĩnh cửu, nhằm ngăn chặn Sasuke."
+    },
+    {
+        "instruction": "Itachi có chiến đấu với ai ngoài Sasuke trong Naruto?",
+        "input": "",
+        "output": "Itachi đã chiến đấu với nhiều người, bao gồm các thành viên trong Akatsuki và Konoha, cũng như trong cuộc đối đầu với Kabuto."
+    },
+    {
+        "instruction": "Itachi đã làm gì để bảo vệ Konoha?",
+        "input": "",
+        "output": "Itachi tàn sát tộc Uchiha theo lệnh của Hokage Đệ Tam nhằm ngăn chặn một cuộc nổi loạn có thể đe dọa sự an nguy của làng Konoha."
+    },
+    {
+        "instruction": "Itachi có phải là người đã cứu Sasuke trong trận chiến với Orochimaru không?",
+        "input": "",
+        "output": "Đúng vậy, Itachi đã cứu Sasuke trong trận chiến với Orochimaru, giúp Sasuke tránh khỏi cái chết và thực hiện một phần trong kế hoạch bảo vệ em trai."
+    },
+    {
+        "instruction": "Itachi có bao nhiêu nhẫn thuật trong dòng Mangekyo Sharingan?",
+        "input": "",
+        "output": "Itachi sở hữu ba nhẫn thuật đặc biệt trong dòng Mangekyo Sharingan, bao gồm Tsukuyomi, Amaterasu và Susanoo."
+    },
+    {
+        "instruction": "Itachi đã từng có mối quan hệ với ai trong làng Konoha?",
+        "input": "",
+        "output": "Itachi từng có mối quan hệ thân thiết với các thành viên trong làng Konoha, bao gồm Hokage Đệ Tam và các đồng đội, trước khi quyết định thực hiện nhiệm vụ tàn sát tộc Uchiha."
+    },
+    {
+        "instruction": "Itachi có từng đối đầu với Madara Uchiha không?",
+        "input": "",
+        "output": "Itachi chưa trực tiếp đối đầu với Madara Uchiha, nhưng anh đã nghe về Madara và coi ông là một mối đe dọa lớn đối với Konoha."
+    },
+    {
+        "instruction": "Nhẫn thuật nào của Itachi có thể kiểm soát tâm trí của đối phương?",
+        "input": "",
+        "output": "Nhẫn thuật Tsukuyomi của Itachi có khả năng kiểm soát tâm trí của đối phương, khiến họ bị rơi vào những ảo giác đầy đau đớn và khủng khiếp."
+    },
+    {
+        "instruction": "Itachi làm gì để bảo vệ Konoha trong cuộc chiến với Akatsuki?",
+        "input": "",
+        "output": "Itachi bảo vệ Konoha bằng cách gia nhập Akatsuki và âm thầm làm việc trong tổ chức để thu thập thông tin và ngăn chặn các mối đe dọa đến làng."
+    },
+    {
+        "instruction": "Itachi có bao giờ tiết lộ mục đích thực sự của mình cho Sasuke?",
+        "input": "",
+        "output": "Itachi chỉ tiết lộ mục đích thực sự của mình cho Sasuke sau khi anh chết, trong một cuộc gặp gỡ sau khi được hồi sinh bởi Edo Tensei."
+    },
+    {
+        "instruction": "Itachi có bao giờ hối hận về việc tàn sát tộc Uchiha không?",
+        "input": "",
+        "output": "Itachi không hối hận về việc tàn sát tộc Uchiha, vì anh tin rằng hành động của mình là cần thiết để bảo vệ làng Konoha và tạo ra một thế giới hòa bình."
+    },
+    {
+        "instruction": "Itachi có bao nhiêu lần sử dụng Susanoo trong các trận chiến?",
+        "input": "",
+        "output": "Itachi sử dụng Susanoo trong một số trận chiến quan trọng, bao gồm cuộc đối đầu với Sasuke và trong trận chiến với Kabuto."
+    },
+    {
+        "instruction": "Nhẫn thuật nào của Itachi có thể tạo ra ngọn lửa không thể dập tắt?",
+        "input": "",
+        "output": "Nhẫn thuật Amaterasu của Itachi tạo ra ngọn lửa đen không thể dập tắt, có khả năng thiêu rụi bất cứ thứ gì nó chạm phải."
+    },
+    {
+        "instruction": "Itachi có bao giờ sử dụng Tsukuyomi để tấn công ai ngoài Sasuke?",
+        "input": "",
+        "output": "Itachi đã sử dụng Tsukuyomi để tấn công nhiều đối thủ trong các trận chiến, bao gồm cả những thành viên trong Akatsuki và các ninja mạnh mẽ khác."
+    },
+    {
+        "instruction": "Itachi có bao giờ đối mặt với một Jinchuriki không?",
+        "input": "",
+        "output": "Itachi đã đối mặt với một Jinchuriki, bao gồm cả Naruto Uzumaki, nhưng chưa có cuộc đối đầu trực tiếp giữa họ."
+    },
+    {
+        "instruction": "Itachi có phải là người mạnh nhất trong tộc Uchiha không?",
+        "input": "",
+        "output": "Itachi được coi là một trong những ninja mạnh nhất trong tộc Uchiha, với khả năng sử dụng Mangekyo Sharingan và các nhẫn thuật đặc biệt."
+    },
+    {
+        "instruction": "Nhẫn thuật nào của Itachi có thể tiêu diệt một đối thủ trong nháy mắt?",
+        "input": "",
+        "output": "Nhẫn thuật Tsukuyomi của Itachi có thể khiến đối thủ rơi vào ảo giác trong thời gian ngắn, khiến họ cảm nhận đau đớn vô cùng, qua đó tiêu diệt tinh thần của họ."
+    },
+    {
+        "instruction": "Itachi đã phải đối mặt với những ai trong cuộc chiến với Sasuke?",
+        "input": "",
+        "output": "Trong cuộc chiến với Sasuke, Itachi phải đối mặt với nhiều chiêu thức mạnh mẽ từ em trai, đồng thời sử dụng Tsukuyomi, Amaterasu, và Susanoo để bảo vệ mình."
+    },
+    {
+        "instruction": "Itachi có sử dụng nhẫn thuật để chữa trị vết thương không?",
+        "input": "",
+        "output": "Mặc dù Itachi sở hữu khả năng sử dụng nhiều nhẫn thuật mạnh mẽ, nhưng anh không sử dụng nhẫn thuật chữa trị để phục hồi vết thương."
+    },
+    {
+        "instruction": "Itachi có bao giờ tiết lộ mục đích của Akatsuki cho Naruto không?",
+        "input": "",
+        "output": "Itachi không trực tiếp tiết lộ mục đích của Akatsuki cho Naruto, nhưng một số sự kiện trong cuộc đối đầu của họ đã gián tiếp tiết lộ phần nào về kế hoạch của tổ chức này."
+    },
+    {
+        "instruction": "Itachi đã từng đối đầu với ai trong trận chiến lớn nhất của mình?",
+        "input": "",
+        "output": "Trận chiến lớn nhất của Itachi là cuộc đối đầu với Sasuke, nơi anh phải sử dụng toàn bộ sức mạnh của mình để chiến đấu."
+    },
+    {
+        "instruction": "Itachi có khi nào tỏ ra yếu đuối không?",
+        "input": "",
+        "output": "Mặc dù là một người mạnh mẽ, Itachi đôi khi tỏ ra yếu đuối trong việc đấu tranh với các cảm xúc và quyết định khó khăn, đặc biệt là khi liên quan đến em trai Sasuke."
+    },
+    {
+        "instruction": "Itachi có chiến đấu với các thành viên khác trong Akatsuki không?",
+        "input": "",
+        "output": "Itachi không chiến đấu trực tiếp với các thành viên khác trong Akatsuki, mà chủ yếu làm nhiệm vụ thu thập thông tin và bảo vệ Konoha từ bên trong."
+    },
+    {
+        "instruction": "Itachi đã nói gì với Sasuke khi cả hai đối mặt lần cuối?",
+        "input": "",
+        "output": "Trong lần đối mặt cuối cùng, Itachi đã nói với Sasuke rằng anh hy vọng em sẽ trở thành người mạnh mẽ và đánh bại anh, để bảo vệ Konoha và tạo ra hòa bình."
+    },
+    {
+        "instruction": "Itachi có cảm thấy hối hận về các hành động của mình không?",
+        "input": "",
+        "output": "Mặc dù Itachi đã phải làm những việc tàn nhẫn, nhưng anh không hối hận vì tin rằng những hy sinh của mình là cần thiết để bảo vệ Konoha và em trai Sasuke."
+    },
+    {
+        "instruction": "Itachi đã từng giết ai trong Akatsuki?",
+        "input": "",
+        "output": "Itachi không giết bất kỳ thành viên nào trong Akatsuki, mặc dù anh từng có mâu thuẫn với một số người trong tổ chức."
+    }
+]

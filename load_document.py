@@ -1,11 +1,12 @@
 import argparse
 import os
 import shutil
-from langchain.vectorstores.chroma import Chroma
-from langchain.document_loaders.pdf import PyPDFDirectoryLoader
+from langchain_community.vectorstores import Chroma
+from langchain_community.document_loaders import PyPDFDirectoryLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.schema.document import Document
+from langchain.schema import Document
 from langchain_community.embeddings.ollama import OllamaEmbeddings
+
 
 DATA_PATH = "./data"
 CHROMA_PATH = "chroma"

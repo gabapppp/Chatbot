@@ -3,3 +3,4 @@ llama.cpp
 _unsloth_*
 model
 chroma
+__pycache__
