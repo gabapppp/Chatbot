@@ -1,0 +1,155 @@
+2024-11-01 14:52:33,114 - INFO - error_code=rate_limit_exceeded error_message='Request too large for gpt-3.5-turbo in project proj_OGstmyoV1Rq1GXCYqf37sT6f organization org-Ov32mZPVzpIvv5MGlNWW1MFw on tokens per min (TPM): Limit 1000, Requested 4781. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.' error_param=None error_type=tokens message='OpenAI API error received' stream_error=False
+2024-11-01 14:52:33,114 - ERROR - Error generating entities: Request too large for gpt-3.5-turbo in project proj_OGstmyoV1Rq1GXCYqf37sT6f organization org-Ov32mZPVzpIvv5MGlNWW1MFw on tokens per min (TPM): Limit 1000, Requested 4781. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.
+2024-11-01 14:52:33,128 - ERROR - Failed to generate entities.
+2024-11-01 14:53:44,081 - INFO - error_code=rate_limit_exceeded error_message='Request too large for gpt-3.5-turbo in project proj_OGstmyoV1Rq1GXCYqf37sT6f organization org-Ov32mZPVzpIvv5MGlNWW1MFw on tokens per min (TPM): Limit 1000, Requested 4781. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.' error_param=None error_type=tokens message='OpenAI API error received' stream_error=False
+2024-11-01 14:53:44,081 - ERROR - Error generating entities: Request too large for gpt-3.5-turbo in project proj_OGstmyoV1Rq1GXCYqf37sT6f organization org-Ov32mZPVzpIvv5MGlNWW1MFw on tokens per min (TPM): Limit 1000, Requested 4781. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.
+2024-11-01 14:53:44,081 - ERROR - Failed to generate entities.
+2024-11-01 14:54:53,692 - INFO - error_code=rate_limit_exceeded error_message='Rate limit reached for gpt-3.5-turbo in project proj_OGstmyoV1Rq1GXCYqf37sT6f organization org-Ov32mZPVzpIvv5MGlNWW1MFw on tokens per min (TPM): Limit 1000, Used 741, Requested 757. Please try again in 29.88s. Visit https://platform.openai.com/account/rate-limits to learn more.' error_param=None error_type=tokens message='OpenAI API error received' stream_error=False
+2024-11-01 14:54:53,693 - ERROR - Error generating entities for part: Tôi s\u1ebd ch\u1ec9 t\u1eadp trung vào dòng th\u1eddi gian c\u1ee7a Naruto và s\u1ebd không bao g\u1ed3m ph\u1ea7n c\u1ee7a Boruto.
+
+V\u1eady hãy b\u1eaft \u0111\u1ea7u \u0111\u1ec3 hi\u1ec3u v\u1ec1 l\u1ecbch s\u1eed \u0111úng \u0111\u1eafn và th\u1ee9 t\u1ef1 mà nh\u1eefng \u0111i\u1ec1u \u0111ã di\u1ec5n ra trong Naruto!
+
+Dòng th\u1eddi gian c\u1ee7a Naruto dài và b\u1eaft \u0111\u1ea7u t\u1eeb Kaguya nh\u1eadp trái \u0111\u1ea5t l\u1ea7n \u0111\u1ea7u tiên và k\u1ebft thúc v\u1edbi Naruto tr\u1edf thành Hokage H\u1ecd \u0111ã ph\u1ea3i tr\u1ea3i qua 4 cu\u1ed9c Chi\u1ebfn tranh Shinobi V\u0129 \u0111\u1ea1i tr\u01b0\u1edbc khi có th\u1ec3 \u0111\u1ea1t \u0111\u01b0\u1ee3c hòa bình.
+
+1 1000 N\u0103m Tr\u01b0\u1edbc Khi Naruto Ra \u0110\u1eddi
+Kaguya và Isshiki \u0111\u1ebfn Trái \u0110\u1ea5t \u0111\u1ec3 tìm qu\u1ea3 trái Chakra Kaguya \u0111\u1ecbnh làm hi\u1ebfn t\u1ebf, tuy nhiên, cô \u0111ã gây th\u01b0\u01a1ng tích n\u1eb7ng cho Isshiki và tiêu th\u1ee5 trái cây Chakra cho riêng mình, tr\u1edf thành t\u1ed5 tiên c\u1ee7a Chakra.
+
+Sau này, cô k\u1ebft thúc các cu\u1ed9c chi\u1ebfn và ki\u1ec3m soát các Qu\u1ed1c gia, th\u1ed1ng tr\u1ecb chúng trong hòa bình Tuy nhiên, cu\u1ed1i cùng, cô \u0111ã m\u1ea5t hy v\u1ecdng vào con ng\u01b0\u1eddi và s\u1eed d\u1ee5ng Infinite Tsukuyomi \u0111\u1ec3 \u0111\u1eb7t m\u1ecdi ng\u01b0\u1eddi d\u01b0\u1edbi Genjutsu.
+
+2 970 N\u0103m Tr\u01b0\u1edbc Khi Naruto Ra \u0110\u1eddi
+Kaguya cu\u1ed1i cùng \u0111ã sinh ra hai anh em sinh \u0111ôi, Hagoromo và Hamura là nh\u1eefng ng\u01b0\u1eddi \u0111\u1ea7u tiên sinh ra có Chakra Tuy nhiên, nh\u1eefng ng\u01b0\u1eddi anh em này \u0111ã tr\u1edf thành s\u1ef1 th\u1ea5t b\u1ea1i c\u1ee7a cô vì h\u1ecd không \u0111\u1ed3ng ý v\u1edbi ph\u01b0\u01a1ng pháp c\u1ee7a cô.
+
+Kaguya, ng\u01b0\u1eddi mu\u1ed1n gi\u1eef Chakra c\u1ee7a mình cho riêng mình, h\u1ee3p nh\u1ea5t v\u1edbi cây Th\u1ea7n và t\u1ea5n công các con trai c\u1ee7a mình H\u1ecd nào \u0111ó \u0111ã thành công trong vi\u1ec7c niêm phong Chakra c\u1ee7a M\u01b0\u1eddi \u0111uôi vào Hagoromo làm cho anh tr\u1edf thành Jinchuriki \u0111\u1ea7u tiên.
+
+Kaguya t\u1ea1o ra m\u1ed9t sinh v\u1eadt nhân t\u1ea1o tr\u01b0\u1edbc khi b\u1ecb niêm phong Th\u1ef1c th\u1ec3 này cu\u1ed1i cùng s\u1ebd \u0111\u01b0\u1ee3c bi\u1ebft \u0111\u1ebfn là Black Zetsu, ng\u01b0\u1eddi th\u1ec3 hi\u1ec7n ý chí c\u1ee7a cô và gây ra các s\u1ef1 ki\u1ec7n sau này.
+
+Hamura r\u1eddi b\u1ecf \u0111\u1ec3 \u0111\u1ebfn M\u1eb7t Tr\u0103ng n\u01a1i ông \u0111ã t\u1ea1o ra gia t\u1ed9c Otsutsuki trong khi Hagoromo \u0111i kh\u1eafp n\u01a1i \u0111\u1ec3 lan truy\u1ec1n nh\u1eefng bài h\u1ecdc c\u1ee7a Ninshu mà sau này s\u1ebd phát tri\u1ec3n thành Ninjutsu hi\u1ec7n \u0111\u1ea1i.
+3 900 N\u0103m Tr\u01b0\u1edbc Khi Naruto Ra \u0110\u1eddi
+Hagoromo chia M\u01b0\u1eddi \u0111uôi thành 9 con quái v\u1eadt b\u1eaft \u0111\u1ea7u t\u1eeb M\u1ed9t-\u0111uôi \u0111\u1ebfn Chín-\u0111uôi Cu\u1ed1i cùng, ông có hai ng\u01b0\u1eddi con là Indra và Ashura có tính cách và k\u1ef9 n\u0103ng \u0111\u1ed1i l\u1eadp nhau.
+
+Trong khi Indra là m\u1ed9t thiên tài t\u1ef1 nhiên nhanh chóng thành th\u1ea1o Ninshu, Ashura g\u1eb7p khó kh\u0103n khá nhi\u1ec1u Khi anh g\u1eb7p khó kh\u0103n, anh nh\u1eadn ra r\u1eb1ng cu\u1ed9c s\u1ed1ng d\u1ec5 dàng và ý ngh\u0129a h\u01a1n khi \u0111\u01b0\u1ee3c chia s\u1ebb v\u1edbi ng\u01b0\u1eddi khác.
+
+Anh nh\u1eadn ra t\u1ea7m quan tr\u1ecdng c\u1ee7a s\u1ef1 k\u1ebft n\u1ed1i \u0111\u1ec3 tr\u1edf nên m\u1ea1nh m\u1ebd h\u01a1n trong khi Ashura là m\u1ed9t k\u1ebb cô \u0111\u01a1n bu\u1ed3n - Rate limit reached for gpt-3.5-turbo in project proj_OGstmyoV1Rq1GXCYqf37sT6f organization org-Ov32mZPVzpIvv5MGlNWW1MFw on tokens per min (TPM): Limit 1000, Used 741, Requested 757. Please try again in 29.88s. Visit https://platform.openai.com/account/rate-limits to learn more.
+2024-11-01 14:54:54,021 - INFO - error_code=rate_limit_exceeded error_message='Rate limit reached for gpt-3.5-turbo in project proj_OGstmyoV1Rq1GXCYqf37sT6f organization org-Ov32mZPVzpIvv5MGlNWW1MFw on tokens per min (TPM): Limit 1000, Used 735, Requested 765. Please try again in 30s. Visit https://platform.openai.com/account/rate-limits to learn more.' error_param=None error_type=tokens message='OpenAI API error received' stream_error=False
+2024-11-01 14:54:54,021 - ERROR - Error generating entities for part: Hagoromo nhìn th\u1ea5y ti\u1ec1m n\u0103ng h\u01a1n trong Ashura và làm cho anh tr\u1edf thành ng\u01b0\u1eddi k\u1ebf th\u1eeba c\u1ee7a Ninshu.
+
+Che khu\u1ea5t b\u1edfi s\u1ef1 ghen t\u1ef5, Indra t\u1ea5n công c\u1ed9ng \u0111\u1ed3ng c\u1ee7a mình v\u1edbi s\u1ee9c m\u1ea1nh th\u1ecb giác c\u1ee7a mình, tuy nhiên, Ashura \u0111ánh b\u1ea1i anh ta v\u1edbi s\u1ef1 giúp \u0111\u1ee1 c\u1ee7a Senjustu và chakra t\u1eeb t\u1ea5t c\u1ea3 các th\u1ecb tr\u1ea5n.
+
+Cu\u1ed1i cùng, Indra thành l\u1eadp gia t\u1ed9c Uchiha \u0111\u1ec3 tr\u1ea3 thù còn Ashura thành l\u1eadp gia t\u1ed9c Senju và Uzumaki \u0111\u1ec3 b\u1ea3o t\u1ed3n các bài h\u1ecdc c\u1ee7a cha mình S\u1ef1 ki\u1ec7n này có nhi\u1ec1u h\u1eadu qu\u1ea3 khác nhau trong su\u1ed1t series khi chúng ta th\u1ea5y hai gia t\u1ed9c này liên t\u1ee5c \u0111\u1ed1i \u0111\u1ea7u v\u1edbi nhau.
+4 Th\u1eddi K\u1ef3 Th\u1ed1ng Tr\u1ecb Chi\u1ebfn - 800 N\u0103m Tr\u01b0\u1edbc Khi Naruto Ra \u0110\u1eddi \u0111\u1ebfn 64 N\u0103m Tr\u01b0\u1edbc Khi Naruto Ra \u0110\u1eddi
+Các qu\u1ed1c gia nh\u1ecf tham gia vào các tr\u1eadn chi\u1ebfn \u0111\u1ec3 có \u0111\u01b0\u1ee3c quy\u1ec1n l\u1ef1c và lãnh th\u1ed5 h\u01a1n Tuy nhiên, vì thi\u1ebfu tài nguyên, h\u1ecd th\u01b0\u1eddng thuê các gia t\u1ed9c Ninja \u0111\u1ec3 chi\u1ebfn \u0111\u1ea5u thay mình Các gia t\u1ed9c m\u1ea1nh nh\u1ea5t qua các n\u0103m \u0111ã ch\u1ee9ng minh \u0111\u01b0\u1ee3c là gia t\u1ed9c Senju và Uchiha.
+
+H\u1ecd \u0111ã \u0111\u01b0\u1ee3c thuê su\u1ed1t hàng th\u1ebf k\u1ef7 d\u1eabn \u0111\u1ebfn các va ch\u1ea1m l\u1eb7p l\u1ea1i cho \u0111\u1ebfn khi Senju và Uchiha tr\u1edf thành k\u1ebb thù t\u1eed thù C\u1ea3 hai gia t\u1ed9c \u0111\u1ec1u m\u1ea5t gia \u0111ình và ng\u01b0\u1eddi thân yêu c\u1ee7a mình cho phe \u0111\u1ed1i l\u1eadp, \u0111i\u1ec1u này \u0111ã làm sâu thêm s\u1ef1 c\u0103m h\u1eadn c\u1ee7a h\u1ecd.
+
+\u1ede \u0111âu \u0111ó trong th\u1eddi gian này, Madara Uchiha và Hashirama Senju \u0111ã t\u1ea1o m\u1ed1i liên k\u1ebft và tr\u1edf thành b\u1ea1n t\u1ed1t mà không bi\u1ebft v\u1ec1 dòng dõi c\u1ee7a nhau.
+
+H\u1ecd th\u01b0\u1eddng ng\u1ed3i trên nh\u1eefng gì sau này s\u1ebd tr\u1edf thành núi Hokage và nói v\u1ec1 nh\u1eefng th\u1eddi \u0111i\u1ec3m hòa bình Hashirama và Madara mu\u1ed1n t\u1ea1o ra m\u1ed9t làng s\u1ebd b\u1ea3o v\u1ec7 nh\u1eefng \u0111\u1ee9a tr\u1ebb c\u1ee7a các gia t\u1ed9c.
+
+Tuy nhiên, không may, gia \u0111ình h\u1ecd bi\u1ebft \u0111\u01b0\u1ee3c v\u1ec1 các cu\u1ed9c h\u1ecdp c\u1ee7a h\u1ecd và t\u1eeb \u0111ó ph\u1ea3i tham gia vào các tr\u1eadn chi\u1ebfn Cu\u1ed1i cùng, h\u1ecd tr\u1edf thành các nhà lãnh \u0111\u1ea1o c\u1ee7a gia t\u1ed9c và Hashirama \u0111\u1ec1 xu\u1ea5t m\u1ed9t hi\u1ec7p \u01b0\u1edbc.
+
+Sau khi m\u1ea5t anh trai c\u1ee7a mình trong cùng m\u1ed9t tr\u1eadn chi\u1ebfn, Madara \u0111\u01b0a ra \u0111i\u1ec1u ki\u1ec7n, \u0111òi h\u1ecfi Hashirama ph\u1ea3i ch\u1ebft \u0111\u1ec3 ch\u1ea5p nh\u1eadn hi\u1ec7p \u01b0\u1edbc Hashirama, v\u1edbi tính cách c\u1ee7a mình, nh\u1eadn l\u1ea5y con dao Kunai \u0111\u1ec3 hi sinh m\u1ea1ng s\u1ed1ng c\u1ee7a mình nh\u01b0ng b\u1ecb Madara ng\u0103n l\u1ea1i khi anh nh\u1edb l\u1ea1i tình b\u1ea1n c\u1ee7a h\u1ecd.
+
+Hai gia t\u1ed9c hình thành làng Konohagakure, Làng \u1ea8n c\u1ee7a Lá và Hashirama tr\u1edf thành Hokage \u0111\u1ea7u tiên c\u1ee7a làng, \u0111i\u1ec1u này có ngh\u0129a là Tobirama s\u1ebd tr\u1edf thành Hokage ti\u1ebfp theo.
+
+Tobirama r\u1ea5t thù \u0111\u1ecbch v\u1edbi gia t\u1ed9c Uchiha, \u0111i\u1ec1u \u0111ó có ngh\u0129a là sau khi Hashirama qua \u0111\u1eddi, gia t\u1ed9c Uchiha s\u1ebd b\u1ecb \u0111\u1ea9y vào th\u1ebf bí - Rate limit reached for gpt-3.5-turbo in project proj_OGstmyoV1Rq1GXCYqf37sT6f organization org-Ov32mZPVzpIvv5MGlNWW1MFw on tokens per min (TPM): Limit 1000, Used 735, Requested 765. Please try again in 30s. Visit https://platform.openai.com/account/rate-limits to learn more.
+2024-11-01 14:54:54,331 - INFO - error_code=rate_limit_exceeded error_message='Rate limit reached for gpt-3.5-turbo in project proj_OGstmyoV1Rq1GXCYqf37sT6f organization org-Ov32mZPVzpIvv5MGlNWW1MFw on tokens per min (TPM): Limit 1000, Used 730, Requested 777. Please try again in 30.42s. Visit https://platform.openai.com/account/rate-limits to learn more.' error_param=None error_type=tokens message='OpenAI API error received' stream_error=False
+2024-11-01 14:54:54,331 - ERROR - Error generating entities for part: V\u1edbi nh\u1eefng lo ng\u1ea1i này, Madara t\u1ea5n công Konoha v\u1edbi H\u1ed3 Ly Chín \u0110uôi.
+
+Hashirama emerged chi\u1ebfn th\u1eafng trong tr\u1eadn chi\u1ebfn và v\u1ee3 c\u1ee7a anh, Mito \u0111ã niêm phong Kurama bên trong cô Sau \u0111ó, anh tri\u1ec7u t\u1eadp H\u1ed9i Ngh\u1ecb N\u0103m Hokage và yêu c\u1ea7u s\u1ef1 liên minh c\u1ee7a h\u1ecd Anh th\u1eadm chí còn chia s\u1ebb B\u1ea3y Viên Th\u1ea7n Thú \u0111\u1ec3 t\u1ea1o ra m\u1ed9t s\u1ef1 cân b\u1eb1ng quy\u1ec1n l\u1ef1c.
+
+Sau này, Hashirama qua \u0111\u1eddi d\u01b0\u1edbi các hoàn c\u1ea3nh không rõ và Tobirama tr\u1edf thành Hokage th\u1ee9 hai, \u0111i\u1ec1u này d\u1eabn \u0111\u1ebfn Chi\u1ebfn tranh Shinobi \u0110\u1ea7u tiên.
+5 Chi\u1ebfn tranh Shinobi \u0110\u1ea7u Tiên 34 N\u0103m Tr\u01b0\u1edbc Khi Naruto Ra \u0110\u1eddi
+Tr\u1eadn Chi\u1ebfn Shinobi \u0110\u1ea1i \u0110\u1ea7u Tiên \u0111ã x\u1ea3y ra do N\u0103m Qu\u1ed1c Gia Liên Minh \u0111\u1ea5u tranh v\u1edbi nhau vì tài nguyên Tobirama hy sinh trong cu\u1ed9c chi\u1ebfn này \u0111\u1ec3 c\u1ee9u các c\u1ea5p d\u01b0\u1edbi c\u1ee7a mình và b\u1ed5 nhi\u1ec7m Hiruzen Sarutobi làm Hokage th\u1ee9 Ba.
+Hiruzen Sarutobi s\u1ebd ti\u1ebfp t\u1ee5c \u0111ào t\u1ea1o Tsunade, Jiraiya và Orochimaru Trong khi Orochimaru là m\u1ed9t thiên tài, Jiraiya là m\u1ed9t ng\u01b0\u1eddi v\u1ee5ng v\u1ec1 không th\u1ec3 n\u1eafm v\u1eefng b\u1ea5t k\u1ef3 jutsu nào Tuy nhiên, sau này anh h\u1ecdc \u0111\u01b0\u1ee3c Senjutsu và tr\u1edf nên c\u1ef1c k\u1ef3 m\u1ea1nh m\u1ebd.
+6 16 N\u0103m Tr\u01b0\u1edbc Khi Naruto Ra \u0110\u1eddi
+16 n\u0103m tr\u01b0\u1edbc khi Naruto sinh ra, Kushina chuy\u1ec3n \u0111\u1ebfn Konohagakure, cô s\u1ebd là ng\u01b0\u1eddi ch\u1ee7 nhân c\u1ee7a C\u1eedu V\u0129 H\u1ed3 Ly mà cô ch\u1ea5p nh\u1eadn m\u1ed9t cách im l\u1eb7ng Tuy nhiên, \u0111i\u1ec1u này làm cho cô tr\u1edf thành m\u1ed9t m\u1ea3nh \u0111\u1ea5u giá quý và cô b\u1ecb b\u1eaft cóc b\u1edfi các làng khác.
+Tuy nhiên, cô \u0111ã \u0111\u01b0\u1ee3c Minato Namikaze c\u1ee9u và cu\u1ed1i cùng cô \u0111ã yêu anh Trong th\u1eddi gian này, ph\u1ea7n l\u1edbn gia t\u1ed9c Uzumaki \u0111ã b\u1ecb xóa s\u1ed5 vì h\u1ecd \u0111\u01b0\u1ee3c coi là m\u1ed1i \u0111e d\u1ecda do k\u1ef9 thu\u1eadt niêm phong m\u1ea1nh m\u1ebd, ph\u1ea7n còn l\u1ea1i \u0111ã b\u1ecb r\u1ea3i rác kh\u1eafp th\u1ebf gi\u1edbi mà không bi\u1ebft v\u1ec1 dòng h\u1ecd c\u1ee7a mình.
+7 Chi\u1ebfn Tranh Ninja Th\u1ee9 Hai - 14 N\u0103m Tr\u01b0\u1edbc Khi Naruto Ra \u0110\u1eddi
+Chi\u1ebfn Tranh Ninja Th\u1ee9 Hai di\u1ec5n ra 14 n\u0103m tr\u01b0\u1edbc khi Naruto sinh ra, ba Sannin huy\u1ec1n tho\u1ea1i \u0111ã gây d\u1ef1ng tên tu\u1ed5i c\u1ee7a h\u1ecd trong chi\u1ebfn tranh này.
+
+Jiraiya c\u0169ng \u0111\u1ea3m nh\u1eadn vi\u1ec7c \u0111ào t\u1ea1o Konan, Nagato và Yahiko sau chi\u1ebfn tranh và tr\u1edf thành m\u1ed9t ng\u01b0\u1eddi cha m\u1eabu m\u1ef1c \u0111\u1ed1i v\u1edbi ba ng\u01b0\u1eddi.
+
+M\u1ed7i S\u1ef1 Ki\u1ec7n trong Naruto theo Th\u1ee9 T\u1ef1 Th\u1eddi Gian!
+Jiraiya quy\u1ebft \u0111\u1ecbnh hu\u1ea5n luy\u1ec7n Yahiko, Konan và Nagato | Ngu\u1ed3n: Fandom
+8 Hình Thành Akatsuki- 12 N\u0103m Tr\u01b0\u1edbc Khi Naruto Ra \u0110\u1eddi
+Yahiko, Konan và Nagato hình thành m\u1ed9t nhóm g\u1ecdi là Akatsuki v\u1edbi ý \u0111\u1ecbnh b\u1ea3o v\u1ec7 c\u1ed9ng \u0111\u1ed3ng nh\u1ecf kh\u1ecfi các cu\u1ed9c chi\u1ebfn tranh c\u1ee7a các qu\u1ed1c gia l\u1edbn Trong th\u1eddi gian này, Yahiko qua \u0111\u1eddi, \u0111\u1ec3 l\u1ea1i Nagato tr\u1edf thành lãnh \u0111\u1ea1o.
+
+Tan nát b\u1edfi s\u1ef1 m\u1ea5t mát, Nagato bi\u1ebfn Akatsuki thành m\u1ed9t nhóm lính \u0111ánh thuê - Rate limit reached for gpt-3.5-turbo in project proj_OGstmyoV1Rq1GXCYqf37sT6f organization org-Ov32mZPVzpIvv5MGlNWW1MFw on tokens per min (TPM): Limit 1000, Used 730, Requested 777. Please try again in 30.42s. Visit https://platform.openai.com/account/rate-limits to learn more.
+2024-11-01 14:54:54,649 - INFO - error_code=rate_limit_exceeded error_message='Rate limit reached for gpt-3.5-turbo in project proj_OGstmyoV1Rq1GXCYqf37sT6f organization org-Ov32mZPVzpIvv5MGlNWW1MFw on tokens per min (TPM): Limit 1000, Used 725, Requested 758. Please try again in 28.98s. Visit https://platform.openai.com/account/rate-limits to learn more.' error_param=None error_type=tokens message='OpenAI API error received' stream_error=False
+2024-11-01 14:54:54,649 - ERROR - Error generating entities for part: B\u1ecb Black Zetsu \u0111i\u1ec1u khi\u1ec3n, anh ta quy\u1ebft \u0111\u1ecbnh chinh ph\u1ee5c t\u1ea5t c\u1ea3 các con thú \u0111uôi và s\u1eed d\u1ee5ng chúng nh\u01b0 v\u0169 khí chi\u1ebfn tranh.
+
+Anh \u1ea5y d\u1ef1 \u0111\u1ecbnh gieo s\u1ee3 hãi v\u1ec1 chi\u1ebfn tranh trong lòng ng\u01b0\u1eddi dân và t\u1ea1o ra m\u1ed9t lo\u1ea1i hòa bình gi\u1ea3 Anh \u1ea5y b\u1eaft \u0111\u1ea7u t\u1ef1 g\u1ecdi mình là Pain và t\u1eadp h\u1ee3p m\u1ed9t nhóm ng\u01b0\u1eddi siêu m\u1ea1nh.
+9 Chi\u1ebfn Tranh Th\u1ee9 Ba c\u1ee7a Shinobi- 4 N\u0103m Tr\u01b0\u1edbc Khi Naruto Ra \u0110\u1eddi
+Minato \u0111ã ch\u1ee9ng minh mình là m\u1ed9t ninja xu\u1ea5t s\u1eafc trong cu\u1ed9c xung \u0111\u1ed9t Shinobi Th\u1ee9 Ba Tuy nhiên, Rin, Kakashi và Obito g\u1eb7p khá nhi\u1ec1u khó kh\u0103n trong cu\u1ed9c chi\u1ebfn này.
+
+Obito b\u1ecb th\u01b0\u01a1ng n\u1eb7ng và trao Sharingan cho Kakashi Trong khi Kakashi và Rin tin r\u1eb1ng Obito \u0111ã ch\u1ebft, anh ta v\u1eabn còn s\u1ed1ng và \u0111\u01b0\u1ee3c Madara Uchiha c\u1ee9u.
+
+Madara già \u0111ã có th\u1ec3 \u0111ánh th\u1ee9c Rinnegan và nuôi d\u01b0\u1ee1ng m\u1ed9t \u0111\u1ed9i quân c\u1ee7a White Zetsu Anh ch\u1eefa lành cho Obito v\u1edbi ý \u0111\u1ecbnh s\u1eed d\u1ee5ng anh ta nh\u01b0 m\u1ed9t quân c\u1edd nh\u01b0ng g\u1eb7p ph\u1ea3n \u0111\u1ed1i cho \u0111\u1ebfn khi ch\u1ee9ng ki\u1ebfn cái ch\u1ebft c\u1ee7a Rin.
+
+Obito tr\u1edf l\u1ea1i v\u1edbi Madara sau khi th\u1ee9c t\u1ec9nh Mangekyou Sharingan và \u0111\u1ed3ng ý tham gia vào k\u1ebf ho\u1ea1ch Infinite Tsukuyomi c\u1ee7a anh ta.
+
+Anh \u1ea5y l\u1ea5y tên c\u1ee7a Madara và \u0111\u1eb7t n\u1ec1n móng cho nhi\u1ec1u s\u1ef1 ki\u1ec7n quan tr\u1ecdng trong ch\u01b0\u01a1ng trình.
+
+10 Sinh Nh\u1eadt c\u1ee7a Naruto- N\u0103m 0
+Ngày Naruto ra \u0111\u1eddi \u0111ánh d\u1ea5u s\u1ef1 ch\u1ebft c\u1ee7a cha m\u1eb9 thân yêu c\u1ee7a anh Làng b\u1ecb t\u1ea5n công b\u1edfi Obito, ng\u01b0\u1eddi sau \u0111ó c\u1ed1 g\u1eafng ki\u1ec3m soát C\u1eedu V\u0129 sau khi con d\u1ea5u \u0111ã b\u1ecb suy y\u1ebfu \u0111áng k\u1ec3.
+
+Tuy nhiên, anh th\u1ea5t b\u1ea1i và Kurama \u0111ã \u0111\u01b0\u1ee3c niêm phong bên trong Naruto khi\u1ebfn anh tr\u1edf thành m\u1ed9t ng\u01b0\u1eddi ngoài cu\u1ed9c trong làng.
+
+11 Itachi Tiêu Di\u1ec7t Dòng H\u1ecd Uchiha- 4 N\u0103m Sau Khi Naruto Ra \u0110\u1eddi
+V\u1edbi c\u0103ng th\u1eb3ng ngày càng leo thang gi\u1eefa gia t\u1ed9c Uchiha và làng, cu\u1ed9c chi\u1ebfn dân s\u1ef1 d\u01b0\u1eddng nh\u01b0 \u0111ang \u0111\u1ebfn g\u1ea7n \u0110\u1ec3 ng\u0103n ch\u1eb7n \u0111i\u1ec1u này, Itachi Uchiha \u0111ã hành \u0111\u1ed9ng nh\u01b0 m\u1ed9t \u0111i\u1ec7p viên kép và gi\u1ebft h\u1ebft c\u1ea3 gia t\u1ed9c c\u1ee7a mình.
+
+Anh không th\u1ec3 \u0111\u01b0a lòng mình gi\u1ebft em trai nh\u1ecf c\u1ee7a mình và \u0111ã nói v\u1edbi anh s\u1ed1ng v\u1edbi ý ngh\u0129 tr\u1ea3 thù, \u0111i\u1ec1u này th\u1ef1c s\u1ef1 là m\u1ed9t hành \u0111\u1ed9ng ng\u1edb ng\u1ea9n, chúng ta \u0111\u1ec1u bi\u1ebft Sasuke \u0111ã tr\u1edf thành th\u1ebf nào v\u1edbi t\u1ea5t c\u1ea3 s\u1ef1 c\u0103m h\u1eadn \u0111ó.
+
+12 13 N\u0103m Sau Khi Naruto Ra \u0110\u1eddi- Câu Chuy\u1ec7n Chính B\u1eaft \u0110\u1ea7u
+13 n\u0103m sau khi Naruto ra \u0111\u1eddi, anh \u0111ã t\u1ed1t nghi\u1ec7p t\u1eeb H\u1ecdc vi\u1ec7n Ninja và gia nh\u1eadp \u0110\u1ed9i 7 \u0110\u1ed9i 7 th\u1ef1c hi\u1ec7n nhi\u1ec7m v\u1ee5 quan tr\u1ecdng \u0111\u1ea7u tiên và \u0111\u1ed1i \u0111\u1ea7u v\u1edbi Zabuza và Haku, giành chi\u1ebfn th\u1eafng.
+
+Sau \u0111ó, h\u1ecd tham gia vào k\u1ef3 thi Chunin và l\u1ea7n \u0111\u1ea7u tiên ti\u1ebfp xúc v\u1edbi Orochimaru - Rate limit reached for gpt-3.5-turbo in project proj_OGstmyoV1Rq1GXCYqf37sT6f organization org-Ov32mZPVzpIvv5MGlNWW1MFw on tokens per min (TPM): Limit 1000, Used 725, Requested 758. Please try again in 28.98s. Visit https://platform.openai.com/account/rate-limits to learn more.
+2024-11-01 14:54:54,949 - INFO - error_code=rate_limit_exceeded error_message='Rate limit reached for gpt-3.5-turbo in project proj_OGstmyoV1Rq1GXCYqf37sT6f organization org-Ov32mZPVzpIvv5MGlNWW1MFw on tokens per min (TPM): Limit 1000, Used 720, Requested 766. Please try again in 29.16s. Visit https://platform.openai.com/account/rate-limits to learn more.' error_param=None error_type=tokens message='OpenAI API error received' stream_error=False
+2024-11-01 14:54:54,949 - ERROR - Error generating entities for part: Làng b\u1ecb t\u1ea5n công b\u1edfi Sunagakure và Orochimaru, ng\u01b0\u1eddi l\u1ea5y m\u1ea1ng c\u1ee7a Hiruzen.
+
+Trong th\u1eddi gian này, Naruto \u0111\u1ed1i \u0111\u1ea7u v\u1edbi Gaara và cu\u1ed9c g\u1eb7p g\u1ee1 này làm thay \u0111\u1ed5i Gaara m\u1ed9t cách t\u1ed1t \u0111\u1eb9p.
+
+V\u1edbi v\u1ecb trí Hokage tr\u1ed1ng, Jiraiya và Naruto ra ngoài tìm Tsunade n\u01a1i Naruto h\u1ecdc \u0111\u01b0\u1ee3c k\u1ef9 thu\u1eadt Rasengan bi\u1ec3u t\u01b0\u1ee3ng Sau m\u1ed9t tr\u1eadn chi\u1ebfn khác v\u1edbi Orochimaru, Tsunade tr\u1edf thành Hokage Th\u1ee9 N\u0103m.
+
+Trong th\u1eddi gian này, Sasuke tr\u1edf nên n\u1ea3n lòng v\u1edbi s\u1ef1 y\u1ebfu \u0111u\u1ed1i c\u1ee7a mình và r\u1eddi làng M\u1ed9t \u0111\u1ed9i hình c\u1ee9u h\u1ed9 \u0111\u01b0\u1ee3c g\u1eedi \u0111i nh\u01b0ng nhi\u1ec7m v\u1ee5 th\u1ea5t b\u1ea1i.
+
+Th\u1ea5t v\u1ecdng vì không th\u1ec3 c\u1ee9u Sasuke, Naruto r\u1eddi \u0111i cùng Jiraiya \u0111\u1ec3 hoàn thi\u1ec7n thêm các k\u1ef9 thu\u1eadt.
+
+13 16 N\u0103m Sau Khi Naruto Ra \u0110\u1eddi- Naruto Tr\u1edf V\u1ec1 Làng
+3 n\u0103m sau khi nh\u1ea3y c\u1ea3nh, Naruto tr\u1edf v\u1ec1 làng và bi\u1ebft \u0111\u01b0\u1ee3c Gaara hi\u1ec7n là Kazekage Gaara b\u1ecb Akatsuki nh\u1eafm m\u1ee5c tiêu, rút ra Bé Tailed Beast và gi\u1ebft anh trong quá trình Tuy nhiên, anh \u0111\u01b0\u1ee3c h\u1ed3i sinh b\u1edfi Chiyo.
+
+Sau \u0111ó, Sai và Yamato tham gia \u0110\u1ed9i 7 và \u0111\u1ed1i m\u1eb7t v\u1edbi Orochimaru Sau này, nh\u1eadn ra r\u1eb1ng Akatsuki s\u1ebd t\u1ea5n công Naruto, Lá \u1ea8n t\u1ea5n công Hidan và Kakuzu.
+
+K\u1ebf ho\u1ea1ch b\u1ecb \u0111\u1ea3o l\u1ed9n khi Hidan và Kakuzu gi\u1ebft Asuma Sarutobi và sau \u0111ó \u0111\u01b0\u1ee3c tr\u1ea3 thù b\u1edfi Shikamaru \u1ede n\u01a1i khác, Sasuke d\u01b0\u1eddng nh\u01b0 gi\u1ebft Orochimaru, thành l\u1eadp \u0111\u1ed9i c\u1ee7a mình và \u0111\u1ed1i \u0111\u1ea7u v\u1edbi Itachi.
+
+Itachi ch\u1ebft trong tr\u1eadn chi\u1ebfn và Sasuke th\u1ee9c t\u1ec9nh Mangekyou Sharingan c\u1ee7a mình.
+
+14 17 N\u0103m Sau Khi Naruto Ra \u0110\u1eddi- Cung \u0110i\u1ec7n Pain
+Jiraiya \u0111\u01b0\u1ee3c g\u1eedi \u0111\u1ebfn Amegakure trong m\u1ed9t nhi\u1ec7m v\u1ee5, n\u01a1i anh b\u1ecb Pain gi\u1ebft ch\u1ebft Naruto \u0111au bu\u1ed3n vì cái ch\u1ebft c\u1ee7a th\u1ea7y và tuyên b\u1ed1 tr\u1edf nên m\u1ea1nh m\u1ebd h\u01a1n \u0111\u1ec3 tr\u1ea3 thù cho Jiraiya Anh ta \u0111i \u0111\u1ebfn núi Myoboku và h\u1ecdc Senjutsu.
+
+Anh ta \u0111ánh b\u1ea1i Pain và thuy\u1ebft ph\u1ee5c Nagato h\u1ed3i sinh nh\u1eefng ng\u01b0\u1eddi ch\u1ebft trong tr\u1eadn chi\u1ebfn \u1ede n\u01a1i khác, sau khi th\u1ea5t b\u1ea1i trong vi\u1ec7c b\u1eaft \u0111\u01b0\u1ee3c Killer Bee, Sasuke tuyên chi\u1ebfn trong H\u1ed9i Ngh\u1ecb N\u0103m Kage và sau \u0111ó gi\u1ebft Danzo.
+15 \u0110\u1ea1i Chi\u1ebfn Ninja Th\u1ee9 T\u01b0
+Naruto h\u1ecdc cách ki\u1ec3m soát Chakra Nine-Tails sau khi hu\u1ea5n luy\u1ec7n v\u1edbi Killer Bee Nhi\u1ec1u nhân v\u1eadt m\u1ea1nh \u0111\u01b0\u1ee3c h\u1ed3i sinh cho \u0111\u1ebfn khi Itachi \u0111ánh b\u1ea1i Kabuto B\u1ed1n Hokage \u0111\u01b0\u1ee3c h\u1ed3i sinh b\u1edfi Orochimaru.
+
+Neji b\u1ecb Ten-Tails hoang dã gi\u1ebft và sau \u0111ó Obito tr\u1edf thành Jinchuriki c\u1ee7a Ten Tails Naruto và Sasuke h\u1ee3p s\u1ee9c \u0111\u1ec3 \u0111ánh b\u1ea1i Obito, tuy nhiên tr\u01b0\u1edbc khi anh ta b\u1ecb \u0111ánh b\u1ea1i hoàn toàn, Black Zetsu bu\u1ed9c anh ta h\u1ed3i sinh hoàn toàn Madara.
+
+Sau \u0111ó, Madara tr\u1edf thành ch\u1ee7 nhân c\u1ee7a Ten Tails và cu\u1ed9c chi\u1ebfn h\u1ea5p d\u1eabn gi\u1eefa Might Guy và Madara b\u1eaft \u0111\u1ea7u - Rate limit reached for gpt-3.5-turbo in project proj_OGstmyoV1Rq1GXCYqf37sT6f organization org-Ov32mZPVzpIvv5MGlNWW1MFw on tokens per min (TPM): Limit 1000, Used 720, Requested 766. Please try again in 29.16s. Visit https://platform.openai.com/account/rate-limits to learn more.
+2024-11-01 14:54:55,563 - INFO - error_code=rate_limit_exceeded error_message='Rate limit reached for gpt-3.5-turbo in project proj_OGstmyoV1Rq1GXCYqf37sT6f organization org-Ov32mZPVzpIvv5MGlNWW1MFw on tokens per min (TPM): Limit 1000, Used 711, Requested 460. Please try again in 10.26s. Visit https://platform.openai.com/account/rate-limits to learn more.' error_param=None error_type=tokens message='OpenAI API error received' stream_error=False
+2024-11-01 14:54:55,563 - ERROR - Error generating entities for part: Trong th\u1eddi gian này, Naruto và Sasuke g\u1eb7p Hagoromo và \u0111\u01b0\u1ee3c ban cho s\u1ee9c m\u1ea1nh c\u1ee7a ông.
+
+Anh \u0111\u1eb7t c\u1ea3 th\u1ebf gi\u1edbi d\u01b0\u1edbi Genjutsu và ngay khi anh ta d\u01b0\u1eddng nh\u01b0 \u0111ã chi\u1ebfn th\u1eafng, s\u1ee9c m\u1ea1nh c\u1ee7a anh ta b\u1eaft \u0111\u1ea7u tr\u1edf nên ngoài ki\u1ec3m soát và Kaguya Osutsuki \u0111\u01b0\u1ee3c h\u1ed3i sinh thông qua anh ta.
+
+Naruto và Sasuke \u0111ánh b\u1ea1i và niêm phong cô ta cùng nhau, tuy nhiên h\u1ecd v\u1eabn có xung \u0111\u1ed9t mà h\u1ecd quy\u1ebft \u0111\u1ecbnh gi\u1ea3i quy\u1ebft b\u1eb1ng m\u1ed9t tr\u1eadn chi\u1ebfn cu\u1ed1i cùng k\u1ebft thúc v\u1edbi c\u1ea3 hai \u0111\u1ec1u m\u1ea5t cánh tay th\u1ed1ng tr\u1ecb.
+
+Cu\u1ed1i cùng, h\u1ecd t\u1ea1o ra hòa bình và h\u1ed3i sinh th\u1ebf gi\u1edbi kh\u1ecfi Genjutsu.
+
+18 N\u0103m Sau Khi Naruto Ra \u0110\u1eddi – Naruto v\u1eabn là m\u1ed9t Genin, và Kakashi hi\u1ec7n là Hokage Th\u1ee9 Sáu.
+
+20 N\u0103m Sau Khi Naruto Ra \u0110\u1eddi– Naruto và Hinata k\u1ebft hôn
+
+25 N\u0103m Sau Khi Naruto Ra \u0110\u1eddi- Naruto cu\u1ed1i cùng tr\u1edf thành Hokage!!
+
+16 V\u1ec1 Naruto
+Naruto là m\u1ed9t b\u1ed9 truy\u1ec7n tranh Nh\u1eadt B\u1ea3n \u0111\u01b0\u1ee3c vi\u1ebft và minh h\u1ecda b\u1edfi Masashi Kishimoto B\u1eaft \u0111\u1ea7u xu\u1ea5t b\u1ea3n vào ngày 21 tháng 9 n\u0103m 1999 và ti\u1ebfp t\u1ee5c cho \u0111\u1ebfn ngày 10 tháng 11 n\u0103m 2014, trong t\u1ea1p chí Weekly Shonen Jump c\u1ee7a Shueisha Manga \u0111ã \u0111\u01b0\u1ee3c thu th\u1eadp thành 72 t\u1eadp trong \u0111\u1ecbnh d\u1ea1ng tank\u014dbon.
+
+Naruto Shippuden là Ph\u1ea7n II c\u1ee7a lo\u1ea1t phim ho\u1ea1t hình, theo sau Naruto l\u1edbn tu\u1ed5i khi anh c\u1ed1 g\u1eafng c\u1ee9u b\u1ea1n Sasuke c\u1ee7a mình \u0111\u1ed3ng th\u1eddi – \u0111\u1ed1i m\u1eb7t v\u1edbi m\u1ed1i \u0111e d\u1ecda \u0111ang \u0111e d\u1ecda c\u1ee7a t\u1ed5 ch\u1ee9c t\u1ed9i ph\u1ea1m – Akatsuki – ng\u01b0\u1eddi \u0111ang nh\u1eafm \u0111\u1ebfn anh cho k\u1ebf ho\u1ea1ch l\u1edbn h\u01a1n c\u1ee7a h\u1ecd. - Rate limit reached for gpt-3.5-turbo in project proj_OGstmyoV1Rq1GXCYqf37sT6f organization org-Ov32mZPVzpIvv5MGlNWW1MFw on tokens per min (TPM): Limit 1000, Used 711, Requested 460. Please try again in 10.26s. Visit https://platform.openai.com/account/rate-limits to learn more.
